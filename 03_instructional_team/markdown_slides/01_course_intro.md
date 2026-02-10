@@ -12,23 +12,6 @@ $ echo "Data Sciences Institute"
 
 ---
 
-# Acknowledgement
-
-We wish to acknowledge this land on which the University of Toronto operates. For thousands of years it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
-
---------
-
-
-# Welcome! 
-
-
-- TF: krystal Wang (she/her) fw2400@cumc.columbia.edu
-- LS: Tianyi tianyi21e@gmail.com
-- LS: Anjali Deshpande deshpande2013@gmail.com
-- LS: Vishakh Patel Vishakh8128@gmail.com
-
----
-
 # Overview of this slide deck
 
 - Explore why we should care about data visualization
