@@ -10,24 +10,20 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      
+      Written on June 9, 2026, Robert Lu
+      
+      I'd say an example of a good data visualization is on the TTC main page, titled "On-time performance and elevator/escalator status", linked here: https://www.ttc.ca
 
-
-
-
-
-
+      I think this visualization is aesthetically pleasing due to use of simple colours. The panels and text of the figure are also nicely spaced so as to not be overly clustered. Also, I believe that the simple bar plot (progress bar?) clearly shows the data itself, which is the target and actual performance of the various transit systems at a given time. Overall, I think the purpose of the figure is to show, at a glance, the overall status of TTC systems - I think this figure shows that well. I don't think the purpose of this figure is to give a detailed look at specific routes, as that info is easily accessed elsewhere (under serice alerts). There should be a low cognitive load in reading and interpreting this figure, assuming you are familiar with the TTC, which should be the case for most people who woudl visit the TTC website where this figure is located. My one complaint is that I would like some sources or additional information on how status and targets are generated. This figure makes me want to learn more about transit operations.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      
+      My example of a bad visualization would be on the r/Infographics subreddit titled "Ranked: The World's 25 Most Militarized Economies", linked here https://www.reddit.com/r/Infographics/comments/1ty41ue/ranked_the_worlds_25_most_militarized_economies/
 
-
-
-
-
-
+      The title of the figure is "The World's Most Militarized Economies", and shows countries in bubbles sized by the percentage of their military spending as a share of GDP in 2025. I think that using some sorted bar plot or scatter plot would have been more effective in seeing the relative differences between countries. I think it would also have been helpful to indicate some kind of total dollar amount, as the GDPs of these countries vary significantly. I say this with a desire to know more about how military spending actually impacts performance/readiness of the force while also acknowledging that even just a dollar amount wouldn't accurately describe military readiness. With all that said, I think the purpose of this figure is meant to highlight high spending by a few select countries/groups of countries - there are figure captions which mention Ukraine, countries bordering Russia, and countries in the Middle East. To that end, I think the figure succeeds, although it would be even cooler if these stats were shown as bubble plots overlayed on an actual map.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
