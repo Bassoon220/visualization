@@ -39,3 +39,4 @@ I chose to plot the CPI dataset because I thought it would be interesting. Withi
 > What ‘underwater labour’ contributed to your final data visualization product?
 
 On the Ontario gov website you can see the names of employees which updated this dataset. There index itself also needed to be estimated, basket defined, etc. from a team at Statistics Canada. The fact that this data was in a nice Excel spreadsheet made plotting pretty easy on my end.
+
